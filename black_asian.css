@@ -1,0 +1,95 @@
+td {
+	font-family: arial, Helvetica, sans-serif;
+	color: #330000;	
+}
+h2 {
+	font-family: "Book Antiqua", arial, Helvetica;
+	font-size: 140%;
+	color: #330000;
+	font-weight: bold;
+	line-height: normal;
+
+}
+.knowtext {  font-family: arial, Helvetica, sans-serif; font-size: 80%; color: #330000; font-weight: bold}
+hr {
+	color: #FFCC33;
+	line-height: 1px;
+}
+h3 {
+	font-family:  arial, Helvetica;
+	font-size: 105%;
+	color: #330000;
+	font-weight: bold;
+	}
+a:link {  font-family: arial, Helvetica, sans-serif; font-weight: bold; color: #990000}
+a:hover {  font-weight: bold; color: #FF6600; font-family: arial, Helvetica, sans-serif}
+a:active {  font-family: arial, Helvetica, sans-serif; font-weight: bold; color: #000000}
+a:visited {  font-family: arial, Helvetica, sans-serif; font-weight: bold; color: #336600}
+a:active {  text-decoration: none}
+a:hover {  text-decoration: none}
+a:link {  text-decoration: none}
+a:visited {  text-decoration: none}
+h4 {  font-family:  arial, Helvetica; color: #333300; font-weight: bold}
+.smalltext {  font-family: arial, Helvetica, sans-serif; font-size: 80%; color: #330000}
+.redink {
+	font-family: arial, Helvetica, sans-serif;
+	color: #CC0000;
+}
+
+body{
+margin-top: 0px;
+margin-right: 0px;
+margin-bottom: 0px;
+margin-left: 0px;
+}
+
+.sidetable {  background-image: url(graphics/lelyboy_back.jpg)}
+.topafrica {  background-image: url(graphics/africacarribean.jpg)}
+.topwork {  background-image: url(graphics/workcommunity_back.jpg)}
+.intro {
+	background-image: url(graphics/heading_arriving_britain_back.jpg);
+}
+.indiaback {
+	background-image: url(graphics/india.jpg);
+}
+.cultureback {  background-image: url(graphics/culture.jpg)}
+.frame {  border: medium double; border-color: #FFCC66 #FFCC66 #FFCC66 #FFCC66; background-color: #330000; padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px}
+.earlyback {  background-image: url(graphics/earlytimes.jpg)}
+.rightsback {  background-image: url(graphics/rights.jpg)}
+.sitemapback {
+	background-image: url(graphics/sitemapback.jpg);
+}
+.sierraback {
+	background-image: url(graphics/sierra.gif);
+}
+
+.aboutback {
+	background-image: url(graphics/about_top.jpg);
+}
+.copyback {
+	background-image: url(graphics/copyback.jpg);
+}
+.toptemplatetable {
+	padding-top: 0px;
+	padding-right: 5px;
+	padding-bottom: 0px;
+	padding-left: 5px;
+}
+.tree {
+	background-color: #CCCC99;
+}
+.treebar {
+	background-color: #996600;
+}
+.basaframe {
+	 border: medium double; border-color: #330000 #330000 #330000 #330000;  background-color: #ffcc66; padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px}
+.linethrough {
+	text-decoration: line-through;
+}
+.sitemaptable {
+	  border-color: #330000 #330000 #330000 #330000;  padding-top: 2px; padding-right:2px; padding-bottom: 2px; padding-left: 2px}
+}
+.siteframe {
+	 border: medium double; border-color: #330000 #330000 #330000 #330000;  background-image: url(graphics/sitemapback.jpg); padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px}.journeysback {
+	background-image: url(graphics/heading_journeys_back.gif);
+}
